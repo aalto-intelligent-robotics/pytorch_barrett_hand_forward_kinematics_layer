@@ -33,7 +33,6 @@ If this code is useful in your research, please consider citing:
   journal={arXiv preprint arXiv:2012.09696},
   year={2020}
 }
-}
 ```
 
 ## License
